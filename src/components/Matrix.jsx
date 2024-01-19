@@ -25,7 +25,7 @@ function Matrix() {
         </div>
 
         <div className="left-10 absolute -top-12 lg:left-0 w-24 h-24 bg-gega-melon rounded-full text-center flex items-center">
-          <p className="font-gemunu uppercase font-bold text-xl text-gega-red -rotate-45">
+          <p className="font-jakarta uppercase font-bold text-xl text-gega-red -rotate-45">
             Oldie & Goldie
           </p>
         </div>

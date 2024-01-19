@@ -252,7 +252,7 @@ function Movies() {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Architecto, delectus.
                 </p>
-                <p className="text-xs tracking-tighter mt-2 font-bold font-gemunu">
+                <p className="text-xs tracking-tighter mt-2 font-bold font-jakarta">
                   ON NOW 01 2022
                 </p>
               </div>
@@ -268,7 +268,7 @@ function Movies() {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Architecto, delectus.
                 </p>
-                <p className="text-xs tracking-tighter mt-2 font-bold font-gemunu">
+                <p className="text-xs tracking-tighter mt-2 font-bold font-jakarta">
                   ON NOW 01 2022
                 </p>
               </div>
@@ -284,7 +284,7 @@ function Movies() {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Architecto, delectus.
                 </p>
-                <p className="text-xs tracking-tighter mt-2 font-bold font-gemunu">
+                <p className="text-xs tracking-tighter mt-2 font-bold font-jakarta">
                   ON NOW 01 2022
                 </p>
               </div>
@@ -300,7 +300,7 @@ function Movies() {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Architecto, delectus.
                 </p>
-                <p className="text-xs tracking-tighter mt-2 font-bold font-gemunu">
+                <p className="text-xs tracking-tighter mt-2 font-bold font-jakarta">
                   ON NOW 01 2022
                 </p>
               </div>
@@ -316,7 +316,7 @@ function Movies() {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Architecto, delectus.
                 </p>
-                <p className="text-xs tracking-tighter mt-2 font-bold font-gemunu">
+                <p className="text-xs tracking-tighter mt-2 font-bold font-jakarta">
                   ON NOW 01 2022
                 </p>
               </div>
