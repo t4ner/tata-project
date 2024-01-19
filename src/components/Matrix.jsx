@@ -2,7 +2,7 @@ import matrix from "../images/matrix.png";
 function Matrix() {
   return (
     <section className="bg-gega-white">
-      <div className="container flex items-center justify-center relative pl-10 lg:pl-0">
+      <div className="container text-xl flex items-center justify-center relative pl-10 lg:pl-0">
         <div className="hidden md:block md:basis-1/3 lg:basis-1/2">
           <img src={matrix} alt="" className="lg:absolute lg:bottom-0" />
         </div>

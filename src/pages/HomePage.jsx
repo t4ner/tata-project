@@ -4,6 +4,7 @@ import Hero from "../components/Hero";
 import Movies from "../components/Movies";
 import Matrix from "../components/Matrix";
 import Blog from "../components/Blog";
+import Footer from "../components/Footer";
 
 export default function HomePage() {
   return (
@@ -13,6 +14,7 @@ export default function HomePage() {
       <Movies />
       <Matrix />
       <Blog />
+      <Footer />
     </div>
   );
 }
